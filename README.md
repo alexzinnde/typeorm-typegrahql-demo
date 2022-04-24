@@ -1,7 +1,13 @@
-# Awesome Project Build with TypeORM
+# PLayground Project with TypeORM, TypeGraphQL, Apollo GraphQL, Typescript
 
 Steps to run this project:
 
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
+1. Run `yarn` command
+2. Setup database settings in `.env` file
 3. Run `npm start` command
+
+# Example .env
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
